@@ -23,3 +23,6 @@ mvn exec:java -Dexec.args="https://www.decathlon.nl/p/halterset-krachttraining-2
 2. Text to contain in the HTML element when the product is available
 3. Absolute path to phantom js driver
 4. Retry after n amount of time in seconds
+
+## Demo
+![alt text](https://github.com/Hakky54/product-status-checker/blob/master/product-status-checker/images/demo.gif?raw=true)
