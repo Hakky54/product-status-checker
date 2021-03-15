@@ -25,4 +25,4 @@ mvn exec:java -Dexec.args="https://www.decathlon.nl/p/halterset-krachttraining-2
 4. Retry after n amount of time in seconds
 
 ## Demo
-![alt text](https://github.com/Hakky54/product-status-checker/blob/master/product-status-checker/images/demo.gif?raw=true)
+![alt text](https://github.com/Hakky54/product-status-checker/blob/master/product-status-checker/images/demo.gif)
