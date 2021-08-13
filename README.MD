@@ -18,6 +18,7 @@ Afterwords check the product status with the following command:
 mvn exec:java -Dexec.args="https://www.decathlon.nl/p/halterset-krachttraining-20-kg-met-schroefdraad/_/R-p-7449?mc=8018574&c=ZWART stock-infos 'Online Beschikbaar' /path/to/phantomjs 30"
 ```
 `-Dexec.args` expects 5 arguments:
+
 0. URL
 1. HTML element by class name of the product status indicator
 2. Text to contain in the HTML element when the product is available
